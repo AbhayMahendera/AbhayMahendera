@@ -16,37 +16,16 @@ Connect with me on Linkedin
 
 ```javascript
 const abhayMahendera = {
-
-    email: "abhaymahendera0@gmail.com",
-
-    linkedin: "https://www.linkedin.com/in/abhay-mahendera-56aa71164/",
-
     code: ["C", "C++", "JavaScript", "Java", "Python", "R"],
-
     askMeAbout: ["data analysis", "web development", "tech", "app development", "photography"],
-
     technologies: {
         programmingLanguages: ["C", "C++", "JavaScript", "Java", "Python", "R"],
-
         databases: ["MySQL", "Oracle 12c", "MongoDB", "pgAdmin"],
-
         designAndIdeTools: ["MS Visual Studio Code", "IntelliJ Idea", "MS Office", "GitHub"],
-
         webDevelopment: ["HTML5", "CSS3", "ES6", "Node.js", "Express.js", "Bootstrap", "NPM", "jQuery", "APIs", "EJS"],
-
         dataAnalysis: ["NumPy", "Matplotlib", "SciPy", "R", "Tableau", "Microsoft Power BI"],
-
     }
 };
 
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
