@@ -31,4 +31,5 @@ const abhayMahendera = {
 - 📸 Photography is my creative outlet when I'm not coding.
 
 Feel free to reach out and connect!
-```
+
+--------
