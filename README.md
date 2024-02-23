@@ -1,5 +1,5 @@
 <h2> Hi , I'm Abhay Mahendera ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI1emZ2dzFjZjM0bDNyZ2xsbWlnYTAxemY5Yjh5aG9vZjhweGpneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="230"> 
+<img align='right' src="https://camo.githubusercontent.com/1a0fa5282e06c4ba1c97afafa7b359cbb66d481328635788bdeacbca0b82f217/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e6769663f6369643d373930623736313164663965396231626433356530313837646231366233303535356461656234356262313033383935267269643d67697068792e6769662663743d73" width="230"> 
 </em></p>
 
 
@@ -26,6 +26,6 @@ const abhayMahendera = {
         dataAnalysis: ["NumPy", "Matplotlib", "SciPy", "R", "Tableau", "Microsoft Power BI"],
     }
 };
+```
 
-
----
+------------------
