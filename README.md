@@ -10,13 +10,13 @@
 
 ```javascript
 const abhayMahendera = {
-    code: ["C", "C++", "JavaScript", "Java", "Python", "R"],
+    code: ["C", "C++", "JavaScript", "Java", "Python", "R","Rust"],
     askMeAbout: ["data analysis", "web development", "tech", "app development", "photography"],
     technologies: {
         programmingLanguages: ["C", "C++", "JavaScript", "Java", "Python", "R"],
         databases: ["MySQL", "Oracle 12c", "MongoDB", "pgAdmin"],
         designAndIdeTools: ["MS Visual Studio Code", "IntelliJ Idea", "MS Office", "GitHub"],
-        webDevelopment: ["HTML5", "CSS3", "ES6", "Node.js", "Express.js", "Bootstrap", "NPM", "jQuery", "APIs", "EJS"],
+        webDevelopment: ["HTML5", "CSS3", "ES6", "Node.js", "Express.js","React" , "Bootstrap", "NPM", "jQuery", "APIs", "EJS"],
         dataAnalysis: ["NumPy", "Matplotlib", "SciPy", "R", "Tableau", "Microsoft Power BI"],
     }
 };
