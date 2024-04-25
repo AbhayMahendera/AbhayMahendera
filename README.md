@@ -13,7 +13,7 @@ const abhayMahendera = {
     code: ["C", "C++", "JavaScript", "Java", "Python", "R","Rust"],
     askMeAbout: ["data analysis", "web development", "tech", "app development", "photography"],
     technologies: {
-        programmingLanguages: ["C", "C++", "JavaScript", "Java", "Python", "R"],
+        programmingLanguages: ["C", "C++", "JavaScript", "Java", "Python", "R" , "Rust"],
         databases: ["MySQL", "Oracle 12c", "MongoDB", "pgAdmin"],
         designAndIdeTools: ["MS Visual Studio Code", "IntelliJ Idea", "MS Office", "GitHub"],
         webDevelopment: ["HTML5", "CSS3", "ES6", "Node.js", "Express.js","React" , "Bootstrap", "NPM", "jQuery", "APIs", "EJS"],
