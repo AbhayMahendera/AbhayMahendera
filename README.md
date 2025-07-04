@@ -14,7 +14,6 @@
 
 ```javascript
 const abhayMahendera = {
-    currentRole: "Technical Support Specialist | IT Support Analyst",
     code: ["Python", "C", "C++", "Java", "JavaScript", "Rust"],
     askMeAbout: ["desktop support", "device provisioning", "troubleshooting", "data analysis", "web projects"],
     technologies: {
@@ -45,7 +44,5 @@ const abhayMahendera = {
 
 ```
 
----
 
-Would you like this exported as a `.md` file or want help styling your GitHub profile with this directly?
 ```
