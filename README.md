@@ -33,8 +33,8 @@ const abhayMahendera = {
 * 🛠 I specialize in desktop support, troubleshooting, and IT asset management.
 * 🧠 I love solving real-world tech problems and streamlining operations.
 * 📊 I have hands-on experience in data analysis using SQL, Tableau, and Power BI.
-* 💬 I collaborate well across departments and enjoy working on-site with technical teams.
 * 🧩 On the side, I build small web tools and automation scripts using Python and Node.js.
+* 🤖 I am currently learning AIML. 
 
 > “Keep learning, stay curious — that's my tech mantra.”
 
@@ -44,5 +44,3 @@ const abhayMahendera = {
 
 ```
 
-
-```
