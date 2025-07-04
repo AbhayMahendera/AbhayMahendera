@@ -1,6 +1,4 @@
 
-
-````html
 <h2> ${\color{yellow}Hi}$ ${\color{yellow}there,}$ ${\color{yellow}I'm}$ ${\color{yellow}Abhay}$ ${\color{yellow}Mahendera!}$ </h2>
 
 <img align='right' src="https://i.gifer.com/6tXM.gif" width="230"> 
