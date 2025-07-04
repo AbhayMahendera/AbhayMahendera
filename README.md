@@ -42,5 +42,3 @@ const abhayMahendera = {
 
 📬 **Let’s connect — I’m open to exciting tech roles, support opportunities, or just chatting tech!**
 
-```
-
